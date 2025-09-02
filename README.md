@@ -56,11 +56,3 @@ print("Height:", tree_height(root))
 # Sum of all elements
 print("Sum:", sum_tree(root))
 ```
-
-## 🧪 Tests
-
-To run tests (if included):
-
-```bash
-pytest tests/
-```
